@@ -1,2 +1,2 @@
-# Effective Drug-Drug Interaction Prediction with Graph Flow Convolution Network (GFCN)
+# Effective drug-drug interaction prediction with graph flow convolution network (GFCN)
 ## DrugGFCN
