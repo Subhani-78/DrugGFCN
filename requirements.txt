@@ -1,0 +1,12 @@
+rdkit-pypi
+deepchem
+dgl
+ogb
+numpy
+pandas
+networkx
+scipy
+torch
+rdkit
+matplotlib
+scikit-learn
